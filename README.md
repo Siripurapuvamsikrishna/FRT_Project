@@ -54,7 +54,7 @@ This is a web based application developed for health related based website in in
 
 ### App Service
 
-
+<img width="1440" alt="Screenshot 2022-11-23 at 5 34 25 PM" src="https://user-images.githubusercontent.com/116077966/203542641-f970d0fe-4832-44cf-b6b4-5ffe9c17225d.png">
 
 
 ## Tech Stack 💻
@@ -64,6 +64,3 @@ This is a web based application developed for health related based website in in
 - CSS
 - Bootstrap
 - JavaScript
-
-<img width="1440" alt="Screenshot 2022-11-23 at 5 34 25 PM" src="https://user-images.githubusercontent.com/116077966/203542641-f970d0fe-4832-44cf-b6b4-5ffe9c17225d.png">
-
