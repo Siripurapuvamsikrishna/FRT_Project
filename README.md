@@ -4,11 +4,12 @@ This is a web based application developed for health related based website in in
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-## App Service Link: https://gloryluxewebsite.azurewebsites.net
 
 **Project Link** - https://siripurapuvamsikrishna.github.io/project1/
 
 **Project demo video link** - https://clipchamp.com/watch/MwtmwKpjYXs
+
+**App Service Link:** https://gloryluxewebsite.azurewebsites.net
 
 ## Azure technologies used for Project
 
@@ -52,9 +53,13 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/116077966/202896781-c57f07a3-70f6-4eee-910d-f315b4ed3aff.png)
 
+![Screenshot (11)](https://user-images.githubusercontent.com/116077966/203551583-dd45694e-5c50-4863-a65f-7f015b0ba473.png)
+
 ### App Service
 
-<img width="1440" alt="Screenshot 2022-11-23 at 5 34 25 PM" src="https://user-images.githubusercontent.com/116077966/203542641-f970d0fe-4832-44cf-b6b4-5ffe9c17225d.png">
+![Screenshot (12)](https://user-images.githubusercontent.com/116077966/203551841-eddb4cbd-8723-42fc-bcbb-b06fee5d326a.png)
+
+
 
 
 ## Tech Stack 💻
