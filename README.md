@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://siripurapuvamsikrishna.github.io/project1/
+**Project Link** - https://siripurapuvamsikrishna.github.io/FRT_Project/
 
 **Project demo video link** - https://clipchamp.com/watch/MwtmwKpjYXs
 
