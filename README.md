@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://siripurapuvamsikrishna.github.io/FRT_Project/
 
-**Project demo video link** - https://clipchamp.com/watch/MwtmwKpjYXs
+**Project demo video link** - https://drive.google.com/file/d/1N2IkvLx08QFHGOOU6l0objMUHSko4UZH/view?usp=share_link
 
 **App Service Link:** https://gloryluxewebsite.azurewebsites.net
 
