@@ -61,7 +61,7 @@ This is a web based application developed for health related based website in in
 
 ### Static Wed apps
 
-![Screenshot (13)](https://user-images.githubusercontent.com/116077966/208218881-755ed521-1835-494e-ab5f-d035de0c0d48.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/116077966/208218921-0b8131ed-e3dc-4915-865c-e2c28dd4bfce.png)
 
 
 ## Tech Stack 💻
